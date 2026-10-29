@@ -1,0 +1,557 @@
+{
+  "version": "1.0.0",
+  "description": "公开截图来源与脱敏记录；原图仅保存在忽略的本机验收目录。",
+  "screenshots": [
+    {
+      "file": "background.png",
+      "sha256": "f3099a7403782c9005244450d109c2c9bd88f2b7f2674dcb6cd8dc165bd08dba",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "batch-progress.png",
+      "sha256": "31d00698be86c0a9fa3429d05a21611f94647e8c40c2eae9c0f3f4ed1f712777",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    },
+    {
+      "file": "batch-selection.png",
+      "sha256": "e67032116070d2ff587a47593d87eb12c6971ca304808a8617428bfc7520b5f5",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        390,
+        844
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 1,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    },
+    {
+      "file": "characters.png",
+      "sha256": "b45ebdde3fe5956a3611b69bc2ea0dccd5591832f68bf558d382158f660f8e4b",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        390,
+        844
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 1,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "config-transfer.png",
+      "sha256": "c44e8c3c0537289ed3751de8916f188437b136237ef4652d83bfb386692b5fdc",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "cover.png",
+      "sha256": "723517a5ecc81ed9a29ba52a4c2e32bb5f72a75372db674f7aaa28604d127445",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 5
+    },
+    {
+      "file": "image-tasks.png",
+      "sha256": "625b43b9d8e016071f85349e60b4c167f8cc71af3485689410f995008a75b970",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 4
+    },
+    {
+      "file": "import.png",
+      "sha256": "4bf814a45b95999fe914067ce27603490236b64664affc89abfe924d35b54d4a",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "listening.png",
+      "sha256": "c92e18b89974251f8fdb4985ea42d86316ee93763bcb7c18c0b2e7c62a89f0cc",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    },
+    {
+      "file": "manual-merge.png",
+      "sha256": "e2f4ef5b41ce0701bec96cb1761b93de5188ec1e7bf8625a206eb1068743d950",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "models.png",
+      "sha256": "482654842fb882bfa33cabb184b9f468ba5115cd309158bec6e9b88aacf36797",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "portrait-batch.png",
+      "sha256": "467a498c6e5a5444a31eb4ddde601c9815d3fe1f7b9ff4501e69e7335391eaa4",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    },
+    {
+      "file": "portraits.png",
+      "sha256": "c8d970a45ddd12fe7f3a186d7a216673268fdf646b23c39f0ead43681b26b8f4",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "projects.png",
+      "sha256": "6e7a00968ebbbe8a5508696ef73f3186ddbb1e2e3fa4a12361c9700b95e96a65",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    },
+    {
+      "file": "reading.png",
+      "sha256": "4342d3a82b8eacfe04d2055915a5f12abb0b9aec6387043c78f64201ace78b13",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "rewrite-windows.png",
+      "sha256": "d856ab64bb1f15191f2e5ead269a924c05701faad318d5fdfc12c149353051c0",
+      "source": "installed-windows",
+      "physical": [
+        1280,
+        800
+      ],
+      "viewport": [
+        1280,
+        800
+      ],
+      "dpr": 1,
+      "safeArea": {
+        "top": "0px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "rewrite.png",
+      "sha256": "c92ad251f9404f696466b024a835d73adef607fcc653fa389c5adeede615f937",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "scene-asset.png",
+      "sha256": "f2005555efec4d465aec16fcd52e2d445a9d773e909e5c46a4fe4645623af0da",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "scene.png",
+      "sha256": "3469d8915dd4e6e493d261f2259f4adf873b322b84c1f42712fa0b9134da15b9",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 7
+    },
+    {
+      "file": "skin-applied.png",
+      "sha256": "b419331eda30e463bef2e2c482d0ae9d3d9699e25cf23cb21430a9e5d35f7524",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    },
+    {
+      "file": "skin-editor.png",
+      "sha256": "e8a9bf5b9e9b4a2fc2705ac7f8e2a65d01c7c0585edc6b8f786a0241e9d48884",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "skin-library.png",
+      "sha256": "bf2ef04b31b13e065e51e2472831a87dff3a59fe38fbb9fa7d7e35c46e206bd8",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "smart-merge.png",
+      "sha256": "b4c8bd6fc620a3f21618813ab97553f08249ce35305e0770b3a36d59e274de9b",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "sync-selection.png",
+      "sha256": "8a415773f90caae5ddf47c869ff9e339215fe9d1242961e2a6032b9c5c55c10b",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 6
+    },
+    {
+      "file": "sync.png",
+      "sha256": "d367b651af7d7d771733435b8a6ad08ef875bd7fd554fc3e52969bbd71369402",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 7
+    },
+    {
+      "file": "templates.png",
+      "sha256": "b35ab615705e360dec248abd8fdcd3ed7a809204f1349577247ff58f9dea527c",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "update.png",
+      "sha256": "2916b313df7727244a3152b3586b586cc529891d1f7d3d0f565826e6654e4fe0",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "voice-models.png",
+      "sha256": "3b38d97a2f6d48ae87e461e9b1891a0299189745bf3ae85cdea8c6706682fe3e",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 0
+    },
+    {
+      "file": "workflow.png",
+      "sha256": "31512c69cb4b765cd96d83e8804fce25a3d0573fb060105e1b1f8be06a28a2b5",
+      "source": "installed-android-emulator-ui",
+      "physical": [
+        780,
+        1688
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 2,
+      "safeArea": {
+        "top": "48px",
+        "bottom": "0px"
+      },
+      "redactionRegions": 2
+    }
+  ]
+}

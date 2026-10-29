@@ -1,0 +1,173 @@
+[
+  {
+    "seconds": 6,
+    "eyebrow": "从小说到自己的创作",
+    "title": "让文字\n拥有更多可能",
+    "lines": [
+      "定向改写 · 角色与场景插图",
+      "电脑和手机，共用一个工作台",
+      "RENovel 1.0.0 首个正式版本"
+    ],
+    "image": "projects.png"
+  },
+  {
+    "seconds": 11,
+    "eyebrow": "连接模型，定义自己的规则",
+    "title": "你的模型\n你的创作模板",
+    "lines": [
+      "文本与图片模型分别配置",
+      "导入 TXT，预览章节拆分",
+      "总结、识别、改写规则自由组合"
+    ],
+    "image": "templates.png",
+    "phases": [
+      {
+        "image": "models.png",
+        "seconds": 5
+      },
+      {
+        "image": "templates.png",
+        "seconds": 6
+      }
+    ]
+  },
+  {
+    "seconds": 15,
+    "eyebrow": "从识别到改写",
+    "title": "让每一处修改\n都有明确目标",
+    "lines": [
+      "自动流程，或分阶段检查",
+      "按场景规则与预算改写",
+      "手机标绿，电脑左右对照"
+    ],
+    "image": "rewrite.png",
+    "phases": [
+      {
+        "image": "rewrite.png",
+        "seconds": 8
+      },
+      {
+        "image": "rewrite-windows.png",
+        "seconds": 7,
+        "layout": "desktop"
+      }
+    ]
+  },
+  {
+    "seconds": 14,
+    "eyebrow": "先把人物整理清楚",
+    "title": "同一位角色\n不再散落成多个名字",
+    "lines": [
+      "姓名、别名与出现率",
+      "手动合并，或审核智能建议",
+      "立绘和场景人物统一关联"
+    ],
+    "image": "smart-merge.png",
+    "phases": [
+      {
+        "image": "manual-merge.png",
+        "seconds": 5
+      },
+      {
+        "image": "smart-merge.png",
+        "seconds": 9
+      }
+    ]
+  },
+  {
+    "seconds": 15,
+    "eyebrow": "从角色立绘到漫画场景",
+    "title": "让人物形象\n延续到每个画面",
+    "lines": [
+      "批量生成角色立绘",
+      "选择主立绘作为参考图",
+      "半自动分镜，再生成场景"
+    ],
+    "image": "portraits.png"
+  },
+  {
+    "seconds": 14,
+    "eyebrow": "小说配图也可以批量完成",
+    "title": "生成完成\n一键找到那张图",
+    "lines": [
+      "按章节、人物和类型选场景",
+      "并发生成，自动插入正文",
+      "查看插图直达，随时返回进度"
+    ],
+    "image": "scene-asset.png",
+    "phases": [
+      {
+        "image": "batch-progress.png",
+        "seconds": 6
+      },
+      {
+        "image": "scene-asset.png",
+        "seconds": 8
+      }
+    ]
+  },
+  {
+    "seconds": 11,
+    "eyebrow": "让工作台成为喜欢的样子",
+    "title": "用一张图片\n制作自己的皮肤",
+    "lines": [
+      "横竖裁剪，焦点与缩放",
+      "自动配色，跨页面应用",
+      "保存多个外观，随时切换"
+    ],
+    "image": "skin-applied.png",
+    "phases": [
+      {
+        "image": "skin-editor.png",
+        "seconds": 5
+      },
+      {
+        "image": "skin-applied.png",
+        "seconds": 6
+      }
+    ]
+  },
+  {
+    "seconds": 13,
+    "eyebrow": "阅读、导出与离线听书",
+    "title": "需要听书时\n在软件内下载模型",
+    "lines": [
+      "安装包不附带语音模型",
+      "下载一次，升级继续使用",
+      "图文阅读、TXT 与 EPUB 导出"
+    ],
+    "image": "voice-models.png",
+    "phases": [
+      {
+        "image": "reading.png",
+        "seconds": 5
+      },
+      {
+        "image": "voice-models.png",
+        "seconds": 8
+      }
+    ]
+  },
+  {
+    "seconds": 11,
+    "eyebrow": "在电脑与手机之间继续",
+    "title": "项目、角色和图片\n一起传到另一台设备",
+    "lines": [
+      "局域网配对与项目传输",
+      "可选择附带模型与模板",
+      "也支持密码加密的配置迁移"
+    ],
+    "image": "sync.png"
+  },
+  {
+    "seconds": 10,
+    "eyebrow": "后续升级，直接在软件里完成",
+    "title": "RENovel 1.0.0\n现在开始你的创作",
+    "lines": [
+      "软件内检查、下载并启动安装",
+      "国内源与 GitHub 双源发布",
+      "项目首页提供下载与完整中文教程"
+    ],
+    "image": "update.png"
+  }
+]
